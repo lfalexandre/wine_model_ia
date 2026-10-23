@@ -17,6 +17,16 @@ O **Random Forest** apresentou o melhor equilíbrio entre precisão e recall.
 - Seaborn
 - Joblib
 
+# Entregas Teóricas
+Temos um arquivo PPTx com a Apresentação realizada no vídeo e o notebook com todo o estudo compilado para a criação do projeto.
+
+```text
+├── ppt/
+│   └── Apresentação - ML techchallange.pptx
+├── notebooks/
+│   ├── wine_analysis.ipynb
+```
+
 ## Estrutura do projeto
 
 ```text
